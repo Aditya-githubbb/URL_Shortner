@@ -28,7 +28,14 @@ This app allows users to enter any long URL and generate a short custom URL, whi
 
 ---
 
+## ❤️ Credits
+
+Project developed by **Aditya Verma**  
+Built while learning from online tutorials and hands-on practice 💡
+
 ## ▶️ How to Run Locally
+
+---
 
 ### 1️⃣ Clone the repository
 ```sh
@@ -38,8 +45,3 @@ npm install
 node app.js
 
 ---
-
-## ❤️ Credits
-
-Project developed by **Aditya Verma**  
-Built while learning from online tutorials and hands-on practice 💡
