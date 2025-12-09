@@ -3,8 +3,6 @@
 A simple and beginner-friendly URL Shortener web app built using **Node.js**, **Vanilla JavaScript**, and **JSON-based storage**.  
 This app allows users to enter any long URL and generate a short custom URL, which redirects to the original webpage.
 
-Live at : https://url-shortner-1h4v.onrender.com
-
 ---
 
 ## 🚀 Features
